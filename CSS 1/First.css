@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(142, 182, 184)
+}
+
+nav {
+    background-color: rgb(207, 164, 218);
+
+    width: 500px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 440px;
+
+
+}
+
+.link {
+    text-decoration: none;
+    font-size: 35px;
+    color: snow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+
+}
+
+.link:hover {
+    font-weight: bold;
+
+
+
+}
+
+h1 {
+    color: snow;
+    align-items: center;
+    margin-left: 450px;
+    margin-top: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

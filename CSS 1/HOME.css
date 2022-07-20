@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(170, 115, 115);
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: snow;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+
+}
+
+.p {
+
+
+    color: snow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: medium;
+}
+
+img {
+    margin-left: 595px;
+    width: 150px;
+    border-radius: 60px;
+    margin-top: 25px;
+
+
+
+}
+
+nav {
+    background-color: rgb(207, 164, 218);
+
+    width: 500px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 440px;
+
+
+}
+
+.link {
+    text-decoration: none;
+    font-size: 35px;
+    color: snow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+
+}
+
+.link:hover {
+    font-weight: bold;
+
+
+
+}
+
+.l {
+    color: snow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 50px;
+    background-color: rgb(100, 94, 177);
+
+
+}
+
+.l:hover {
+    font-weight: bold;
+
+
+
+
+}
